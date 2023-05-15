@@ -15,7 +15,8 @@ ul {
   }
   
   li {
-    float: left;
+    display: inline-block;
+    margin: 0 10px;
   }
   
   li a {
