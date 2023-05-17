@@ -1,8 +1,12 @@
+img{
+  display: block;
+  margin: auto;
+  max-width: 60%;
+  height: auto;
+}
+
 h1{
     text-align: center;
-}
-nav{
-    /* text-align: center; */
 }
 
 ul {
