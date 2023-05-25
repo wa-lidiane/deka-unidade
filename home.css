@@ -1,0 +1,21 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #08355A;
+    width: 500px;
+    height: 700px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+
+.fusca{
+    width: auto;
+    height: 300px;
+}
