@@ -39,7 +39,7 @@ li a:hover {  /*menu*/
     background-color: #111;
   }  
 
-main{
+main{ /*caixa onde o conteúdo está*/
     background-color: white;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #08355A;

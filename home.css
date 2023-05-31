@@ -36,7 +36,7 @@ ul {  /*menu*/
   }
   
 
-main{
+main{  /*caixa onde o conteúdo está*/
     background-color: white;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #08355A;
@@ -73,4 +73,9 @@ main{
 .tamanho-img{  /*card*/
   width: 200px;
   height: 200px;
+}
+
+
+@media (max-width: 768px) {
+  /* Estilos para telas menores, como smartphones */
 }
